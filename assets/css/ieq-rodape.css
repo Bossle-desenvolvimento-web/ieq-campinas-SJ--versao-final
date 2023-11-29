@@ -1,0 +1,13 @@
+.rodape{background-color:var(--ieq-color-gray);
+       width: 100%;
+       display: flex;
+        height: auto;
+        margin-top: 10px;
+       box-sizing: border-box;
+         
+   >div{margin: auto;}}
+
+.p-footer{color: var(--ieq-color-white);
+            font-size: 14px;
+            text-align: center;}
+            

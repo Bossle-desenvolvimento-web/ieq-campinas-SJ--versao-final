@@ -1,0 +1,23 @@
+#ieq-agenda{background-color: var(--ieq-color-black);
+
+  >div{padding: 20px;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: var(--ieq-color-white);
+      background-color:var(--ieq-color-black) ;
+
+ .carousel{height: 500px;
+
+
+  .carousel-item{max-width: 320px;
+                 
+                  
+
+&img{width: 100%;}
+    }
+     }  
+ 
+}
+
+    }
